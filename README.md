@@ -2,11 +2,15 @@
 This project implements a system for detecting people in video and image frames, checking for inappropriate
 dressing (nudity), and applying blurring to detected regions where nudity
 is identified. It utilizes the YOLOv8 model for person detection and a separate YOLOv8 model for nudity detection. The system is capable of processing video files and image files and outputting processed videos/image with identified nudity regions blurred for privacy.
-The system supports both video and image processing. please don't forget to leave a star⭐️ on the github repo.
+The system supports both video and image processing. please don't forget to leave a star⭐️ on the GitHub repo.
 
 !["detect"](img_1.png)
+
+
+
 ## Table of Contents
 
+- [Applications](#Applications)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,6 +19,21 @@ The system supports both video and image processing. please don't forget to leav
 - [Dependencies](#dependencies)
 - [Project Structure](#project-structure)
 - [License](#license)
+
+##Applications
+
+-✅ Content Moderation on Social Media Platforms
+-✅  Kids' Educational Content
+-✅  Child-Friendly Online Platforms
+-✅  Real-time Automated Content Filtering for Streaming Services
+-✅  Video Surveillance Systems
+-✅  Live Streaming Platforms
+-✅  Educational and Training Videos
+-✅ Video Archiving and Compliance
+-✅ Public Event Footage
+-✅  Healthcare and Medical Imaging
+-✅ Virtual Reality (VR) Content
+-✅  Workplace Monitoring Systems
 
 ## Features
 
@@ -27,18 +46,6 @@ The system supports both video and image processing. please don't forget to leav
 
 - Certainly! Here’s the updated list including applications for children:
 
-✅ Content Moderation on Social Media Platforms
-✅  Kids' Educational Content
-✅  Child-Friendly Online Platforms
-✅  Real-time Automated Content Filtering for Streaming Services
-✅  Video Surveillance Systems
-✅  Live Streaming Platforms
-✅  Educational and Training Videos
-✅ Video Archiving and Compliance
-✅ Public Event Footage
-✅  Healthcare and Medical Imaging
-✅ Virtual Reality (VR) Content
-✅  Workplace Monitoring Systems
 
 
 ## Installation
