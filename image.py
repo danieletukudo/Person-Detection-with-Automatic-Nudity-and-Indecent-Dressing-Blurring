@@ -106,9 +106,9 @@ class ImageProcessor:
         cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    image_file = 'img_8.png'
+    image_file = '../img_8.png'
     yolov8_model_path = 'yolov8s.pt'
-    nudity_model_path = 'N_300 (1).pt'
+    nudity_model_path = '../N_300 (1).pt'
 
     processor = ImageProcessor(yolov8_model_path, nudity_model_path)
     processor.process_image(image_path=image_file,blur_ratio=20)

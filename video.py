@@ -14,6 +14,7 @@ class PersonAttireProcessor:
     and applies blurring to detected regions where nudity is identified.
     """
 
+
     def __init__(self, yolov8_model_path: str, nudity_model_path: str) -> None:
         """
         Initialize the processor with model paths.
@@ -143,15 +144,7 @@ class PersonAttireProcessor:
 if __name__ == "__main__":
 
     yolov8_model_path = "yolov8s.pt"
-    nudity_model_path = "N_300 (1).pt"
-
-    processor1 = PersonAttireProcessor(yolov8_model_path, nudity_model_path)
-    processor1.run(video_path="Untitled.mp4",
-                   output_file_name="Untitledout.mp4", blur_ratio=20)
-
-    processor2 = PersonAttireProcessor(yolov8_model_path, nudity_model_path)
-    processor2.run(video_path="🇦🇷 Villa Gesell Beach Walk Perfect Day at Argentina.mp4",output_file_name="Villa_out1.mp4",blur_ratio=20)
-
+    nudity_model_path = "../N_300 (1).pt"
 
     processor = PersonAttireProcessor(yolov8_model_path, nudity_model_path)
-    processor.run(video_path="🇦🇷 Mar Del Plata Beach Walk Hot Day at Argentina.mp4",output_file_name="marout1.mp4",blur_ratio=20)
+    processor.run(video_path="../🇦🇷 Mar Del Plata Beach Walk Hot Day at Argentina.mp4", output_file_name="marout1.mp4", blur_ratio=20)
