@@ -22,18 +22,18 @@ The system supports both video and image processing. please don't forget to leav
 
 ##Applications
 
--✅ Content Moderation on Social Media Platforms
--✅  Kids' Educational Content
--✅  Child-Friendly Online Platforms
--✅  Real-time Automated Content Filtering for Streaming Services
--✅  Video Surveillance Systems
--✅  Live Streaming Platforms
--✅  Educational and Training Videos
--✅ Video Archiving and Compliance
--✅ Public Event Footage
--✅  Healthcare and Medical Imaging
--✅ Virtual Reality (VR) Content
--✅  Workplace Monitoring Systems
+- ✅ Content Moderation on Social Media Platforms
+- ✅  Kids' Educational Content
+- ✅  Child-Friendly Online Platforms
+- ✅  Real-time Automated Content Filtering for Streaming Services
+- ✅  Video Surveillance Systems
+- ✅  Live Streaming Platforms
+- ✅  Educational and Training Videos
+- ✅ Video Archiving and Compliance
+- ✅ Public Event Footage
+- ✅  Healthcare and Medical Imaging
+- ✅ Virtual Reality (VR) Content
+- ✅  Workplace Monitoring Systems
 
 ## Features
 
