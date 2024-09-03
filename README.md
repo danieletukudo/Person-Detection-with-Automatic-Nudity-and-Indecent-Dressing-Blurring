@@ -2,7 +2,7 @@
 This project implements a system for detecting people in video and image frames, checking for inappropriate
 dressing (nudity), and applying blurring to detected regions where nudity
 is identified. It utilizes the YOLOv8 model for person detection and a separate YOLOv8 model for nudity detection. The system is capable of processing video files and image files and outputting processed videos/image with identified nudity regions blurred for privacy.
-The system supports both video and image processing.
+The system supports both video and image processing. please don't forget to leave a start on the github repo.
 
 !["detect"](img_1.png)
 ## Table of Contents
