@@ -20,7 +20,7 @@ The system supports both video and image processing. please don't forget to leav
 - [Project Structure](#project-structure)
 - [License](#license)
 
-##Applications
+## Applications
 
 - ✅ Content Moderation on Social Media Platforms
 - ✅  Kids' Educational Content
